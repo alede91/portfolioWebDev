@@ -1,0 +1,39 @@
+.contato {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, .1);
+}
+
+.contato h1 {
+    font-size: 3rem;
+    text-shadow: 0 4px 30px rgba(0, 0, 0, 1);
+}
+
+.contato > div > ul{
+    list-style: none;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, .1);
+}
+
+.info-contato{
+    width: 95%;
+    margin: 20px auto;
+}
+
+.info-contato > ul > li, .info-contato > ul > li > i{
+    font-size: 2rem;
+    margin: 15px 0;
+}
+
+.info-contato > ul > li > a{
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.obs-contato{
+    width: 95%;
+    margin: auto;
+}

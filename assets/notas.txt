@@ -1,0 +1,52 @@
+*****Requisitos Gerais*****
+//Descrição: Portfólio para apresentação pessoal/profissional
+//Estilo: Aparência de rede social com tons de azul
+//A página deve ser responsiva
+//Deve ter controle de versão desde o ínicio no gitHub
+//Usar SASS modulado
+
+*****Conteúdo*****
+//Sobre Mim (Texto no Primeiro projeto),  
+//Skills: Hard e Soft (vide primeiro projeto),
+//Portfólio (Em construção), 
+//Life Style: Automobilismo; Natureza; Leitura; Violão; Muay Thay, **Amigos(Galeria)
+//Cursos: disponibilizar cursos mas para acesso aos certificados deve-se entrar em contato
+//Contato: Currículo: pedir para entrar em contato por segurança
+
+*****Informações de fontes*****
+//Font-family - Poppins, sans-serif;
+//Color - #F9F9F9 ou #FCFCFC
+//Weights - Thin 100 / Thin 100 italic / ExtraLight 200 / SemiBold 600
+//Link - <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Poppins:ital,wght@0,100;0,200;0,600;1,100&display=swap" rel="stylesheet">
+
+*****Paleta de cores*****
+//Cor1 - #12274B - Background
+//Cor2 - #3A5583 - Bordas / hover / sombras
+//Cor3 - #071733 - Background dos cards / links active
+//Cor4 - #020C1D - Background footer
+
+*****Comportamentos*****
+//Menu toggle para dispositivos móveis
+//Active link deve ficar selecionado
+//Os links devem possuir hover
+
+
+****Nota do gitHub***
+Olá mundo!!!
+
+Esse é meu projeto de portfólio. Trata-se de uma landin page de apresentação,
+onde postarei meus projetos (por enquanto atividades). A ideia inicial é demonstrar
+meus FrontEnd Skills na busca da minha primeira oportunidade de trabalho.
+
+Fiquem a vontade para dar sugestões de melhoria. É sempre muito bom poder aprender
+e evoluir com as experiências de vocês.
+
+Thank's!!!!
+
+Landing Page by Alexandre Costa.
+email: alede91@gmail.com
+
+****Créditos do video****
+https://www.pexels.com/video/digital-projection-of-abstract-geometrical-lines-3129671/

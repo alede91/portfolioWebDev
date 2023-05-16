@@ -1,0 +1,36 @@
+@import "posicionamento.css";
+@import "aside.css";
+@import "section.css";
+@import "sobre-mim.css";
+@import "skills.css";
+@import "portfolio.css";
+@import "life-style.css";
+@import "cursos.css";
+@import "contato.css";
+@import "responsividade.css";
+
+
+:root {
+    --cor-background-texto-hover: rgba(255, 255, 255, 0.315);
+    --font-principal: 'Poppins', sans-serif;
+    --font-color: #FCFCFC;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-principal);
+    font-size: 16px;
+    color: var(--font-color);
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.esconder {
+    display: none !important;
+}
