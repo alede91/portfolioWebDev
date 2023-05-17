@@ -20,11 +20,12 @@
     grid-template-columns: repeat(3fr);
     grid-template-rows: 10% 43% 43%;
     gap: 20px;
+    overflow-x: hidden;
 }
 
 .container-life-style > div{
     max-width: 300px;
-    height: 95%;
+    max-height: 300px;
     margin-left: 10px;
     border-radius: 10px;
     cursor: pointer;

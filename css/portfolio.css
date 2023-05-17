@@ -20,6 +20,7 @@
     grid-template-columns: repeat(3fr);
     grid-template-rows: 10% 43% 43%;
     gap: 20px;
+    overflow-x: hidden;
 }
 
 .container-portfolio > div{
