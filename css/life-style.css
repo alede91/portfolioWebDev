@@ -29,10 +29,11 @@
     margin-left: 10px;
     border-radius: 10px;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .container-life-style > div:hover{
-    scale: 1.05;
+    scale: 1.03;
 }
 
 .life-style-img{
@@ -43,7 +44,8 @@
 }
 
 .life-style-img img{
-    max-width: 100%;
+    width: 100%;
+    height: 100%;
     border-radius: 10px;
 }
 
