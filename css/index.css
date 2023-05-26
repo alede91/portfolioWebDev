@@ -8,6 +8,7 @@
 @import "cursos.css";
 @import "contato.css";
 @import "responsividade.css";
+@import "mobile.css";
 
 
 :root {
@@ -26,14 +27,12 @@
     color: var(--font-color);
 }
 
-body{
-    width: 100vw;
-    height: 100vh;
-}
 
 .esconder {
     display: none !important;
 }
+
+
 
 ::-webkit-scrollbar { 
     display: none; 

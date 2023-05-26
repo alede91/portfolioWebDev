@@ -16,7 +16,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,600;1,100&display=swap" rel="stylesheet">
-        <script src="https://kit.fontawesome.com/3be47b7a42.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
@@ -27,15 +26,17 @@
 
     <main>
 
+        
+
         <aside>
             <div class="div-img">
-               
-                <figure>
+         
+               <figure>
                     <img src="assets/img/img_portfolio.jpg" alt="Foto do autor">
-                    <figcaption>Uma foto do autor para apresentação aos visitantes do portfólio</figcaption>
+                    <!-- <figcaption>Uma foto do autor para apresentação aos visitantes do portfólio</figcaption> -->
                 </figure>
             </div>
-            <nav class="div-nav">
+            <nav class="div-nav div-nav-mobile-esconder" id="nav-card">
                 <div>
                     <ul>
                         <li><button id="sobre-mim">SOBRE MIM</button></li>
@@ -47,9 +48,13 @@
                     </ul>
                 </div>
             </nav>
+
+            <div class="botao-menu" id="botao-mobile">
+                <i class="fa-solid fa-bars"></i>
+            </div>
         </aside>
 
-        <section>
+        <section id="section">
 
             <div class="sobre-mim" id="sobre-mim-card">
                 <h1>Hello World, Alexandre Costa aqui!</h1>
@@ -340,7 +345,7 @@
         </section>
 
     </main>
-
+    <script src="https://kit.fontawesome.com/3be47b7a42.js" crossorigin="anonymous"></script>
     <script src="./js/script.js" ></script>
 </body>
 </html>

@@ -65,7 +65,10 @@
     grid-row: 1/2;
 }
 
-
+/*--------CONTATO--------*/
+.info-contato > ul > li, .info-contato > ul > li > i{
+    font-size: 1.5rem;
+}
 
 }
 
@@ -108,4 +111,3 @@
 }
 
 }
-
